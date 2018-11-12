@@ -1,3 +1,6 @@
+// Basic Chatbot utilizing fundamential NLP concepts, Note that
+// training is required from a basic corpus
+
 import java.util.*;
 import java.io.*;
 
